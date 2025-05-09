@@ -1,6 +1,6 @@
 # Java Offline Account Manager
 
-A lightweight, **offline**, and secure account manager with a simple GUI built using **JavaFX**. This application allows users to manage their account credentials locally without relying on cloud storage or internet connectivity — ensuring maximum privacy and control.
+This application allows users to manage their account credentials locally without relying on cloud storage or internet connectivity — ensuring maximum privacy and control.
 ---
 
 ## Features
